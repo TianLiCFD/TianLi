@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tian Li</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tianlicfd.github.io/</link>
+      <atom:link href="https://tianlicfd.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tian Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tian Li</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://tianlicfd.github.io/img/icon-192.png</url>
       <title>Tian Li</title>
-      <link>/</link>
+      <link>https://tianlicfd.github.io/</link>
     </image>
     
     <item>
       <title>BioCarbUp</title>
-      <link>/project/biocarbup/</link>
+      <link>https://tianlicfd.github.io/project/biocarbup/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/biocarbup/</guid>
+      <guid>https://tianlicfd.github.io/project/biocarbup/</guid>
       <description>&lt;p&gt;Tasks: SP leader on education and training; supervising a PhD student on
 developing computational models for optimizing biocarbon production&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@ developing computational models for optimizing biocarbon production&lt;/p&gt;
     
     <item>
       <title>GASPRO</title>
-      <link>/project/gaspro/</link>
+      <link>https://tianlicfd.github.io/project/gaspro/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/gaspro/</guid>
+      <guid>https://tianlicfd.github.io/project/gaspro/</guid>
       <description>&lt;p&gt;Tasks: SP leader on idealized particle experiments and CFD simulations;
 developing simplified soot formation model; developing CFD solvers for
 simulating gasification of biomass; performing experimental studies on high-
@@ -36,9 +36,9 @@ temperature biomass gasification&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
+      <link>https://tianlicfd.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
+      <guid>https://tianlicfd.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
