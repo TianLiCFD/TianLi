@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ning Guo | Tian Li</title>
+    <link>https://tianlicfd.github.io/authors/ning-guo/</link>
+      <atom:link href="https://tianlicfd.github.io/authors/ning-guo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ning Guo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tian Li</copyright><lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tianlicfd.github.io/img/icon-192.png</url>
+      <title>Ning Guo</title>
+      <link>https://tianlicfd.github.io/authors/ning-guo/</link>
+    </image>
+    
+    <item>
+      <title>Eulerian-Lagrangian simulation of pulverized biomass jet using spheroidal particle approximation</title>
+      <link>https://tianlicfd.github.io/publication/journal-article14/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terese Løvås | Tian Li</title>
+    <link>https://tianlicfd.github.io/authors/terese-l%C3%B8vas/</link>
+      <atom:link href="https://tianlicfd.github.io/authors/terese-l%C3%B8vas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Terese Løvås</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tian Li</copyright><lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tianlicfd.github.io/img/icon-192.png</url>
+      <title>Terese Løvås</title>
+      <link>https://tianlicfd.github.io/authors/terese-l%C3%B8vas/</link>
+    </image>
+    
+    <item>
+      <title>An Alternative Approach for the Estimation of Biochar Yields</title>
+      <link>https://tianlicfd.github.io/publication/journal-article12/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combustion and NOx Emission Characteristics of a Bluff Body Hydrogen Burner</title>
+      <link>https://tianlicfd.github.io/publication/journal-article15/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eulerian-Lagrangian simulation of pulverized biomass jet using spheroidal particle approximation</title>
+      <link>https://tianlicfd.github.io/publication/journal-article14/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High temperature gasification of high heating-rate chars using a flat-flame reactor</title>
+      <link>https://tianlicfd.github.io/publication/journal-article13/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skeletal mechanisms for prediction of NOx emission in solid fuel combustion</title>
+      <link>https://tianlicfd.github.io/publication/journal-article16/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

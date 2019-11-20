@@ -22,6 +22,14 @@
     </item>
     
     <item>
+      <title>An Alternative Approach for the Estimation of Biochar Yields</title>
+      <link>https://tianlicfd.github.io/publication/journal-article12/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BioCarb&#43;</title>
       <link>https://tianlicfd.github.io/project/biocarb&#43;/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
@@ -79,6 +87,22 @@
 
 &lt;p&gt;&lt;a href=&#34;https://www.sintef.no/projectweb/cenbio/&#34; target=&#34;_blank&#34;&gt;Project website&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Combustion and NOx Emission Characteristics of a Bluff Body Hydrogen Burner</title>
+      <link>https://tianlicfd.github.io/publication/journal-article15/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eulerian-Lagrangian simulation of pulverized biomass jet using spheroidal particle approximation</title>
+      <link>https://tianlicfd.github.io/publication/journal-article14/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article14/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -153,6 +177,14 @@ char reactivity&lt;/p&gt;
     </item>
     
     <item>
+      <title>High temperature gasification of high heating-rate chars using a flat-flame reactor</title>
+      <link>https://tianlicfd.github.io/publication/journal-article13/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NSFC 50676055</title>
       <link>https://tianlicfd.github.io/project/nsfc-50676055/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
@@ -193,6 +225,14 @@ char reactivity&lt;/p&gt;
     </item>
     
     <item>
+      <title>Skeletal mechanisms for prediction of NOx emission in solid fuel combustion</title>
+      <link>https://tianlicfd.github.io/publication/journal-article16/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GASPRO</title>
       <link>https://tianlicfd.github.io/project/gaspro/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -208,27 +248,6 @@ char reactivity&lt;/p&gt;
 &lt;p&gt;My Tasks: SP leader on idealized particle experiments and CFD simulations; developing simplified soot formation model; developing CFD solvers for simulating gasification of biomass; performing experimental studies on high-temperature biomass gasification&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.ntnu.edu/gaspro#/view/about&#34; target=&#34;_blank&#34;&gt;Project website&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://tianlicfd.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://tianlicfd.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
