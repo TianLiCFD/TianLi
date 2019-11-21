@@ -5,7 +5,7 @@
     <link>https://tianlicfd.github.io/authors/lihao-zhao/</link>
       <atom:link href="https://tianlicfd.github.io/authors/lihao-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Lihao Zhao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tian Li</copyright><lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tian Li</copyright><lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tianlicfd.github.io/img/icon-192.png</url>
       <title>Lihao Zhao</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Eulerian-Lagrangian simulation of pulverized biomass jet using spheroidal particle approximation</title>
       <link>https://tianlicfd.github.io/publication/journal-article14/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://tianlicfd.github.io/publication/journal-article14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical investigation of particles turbulent dispersion in channel flow</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article3/</link>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article3/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Berta Matas Güell | Tian Li</title>
+    <link>https://tianlicfd.github.io/authors/berta-matas-guell/</link>
+      <atom:link href="https://tianlicfd.github.io/authors/berta-matas-guell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Berta Matas Güell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tian Li</copyright><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tianlicfd.github.io/img/icon-192.png</url>
+      <title>Berta Matas Güell</title>
+      <link>https://tianlicfd.github.io/authors/berta-matas-guell/</link>
+    </image>
+    
+    <item>
+      <title>Experimental and modeling study of the effect of torrefaction on the rapid devolatilization of biomass</title>
+      <link>https://tianlicfd.github.io/publication/journal-article3/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of torrefaction on physical properties and conversion behavior of high heating rate char of forest residue</title>
+      <link>https://tianlicfd.github.io/publication/journal-article4/</link>
+      <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://tianlicfd.github.io/authors/christoph-meraner/</link>
       <atom:link href="https://tianlicfd.github.io/authors/christoph-meraner/index.xml" rel="self" type="application/rss+xml" />
     <description>Christoph Meraner</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tian Li</copyright><lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tian Li</copyright><lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tianlicfd.github.io/img/icon-192.png</url>
       <title>Christoph Meraner</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Combustion and NOx Emission Characteristics of a Bluff Body Hydrogen Burner</title>
       <link>https://tianlicfd.github.io/publication/journal-article15/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://tianlicfd.github.io/publication/journal-article15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cold flow characteristics of a novel bluff body hydrogen burner</title>
+      <link>https://tianlicfd.github.io/publication/journal-article11/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article11/</guid>
       <description></description>
     </item>
     

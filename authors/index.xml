@@ -5,7 +5,7 @@
     <link>https://tianlicfd.github.io/authors/</link>
       <atom:link href="https://tianlicfd.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tian Li</copyright><lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tian Li</copyright><lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tianlicfd.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://tianlicfd.github.io/authors/admin/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://tianlicfd.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Tian Li is a Associate Professor at Department of Energy and Process Engineering, Norwegian University of Science and Technology. He is a part of the &lt;a href=&#34;https://www.ntnu.edu/comkin/&#34; target=&#34;_blank&#34;&gt;ComKin Group&lt;/a&gt;, which applies modern numerical methods and experimental studies to problems arising in combustion systems, with a special emphasis on clean and sustainable energy production.&lt;/p&gt;
 
@@ -41,73 +41,97 @@ wNTkzOTI5OTU0MTFlOGFhY2I4YmZiNmJmZTgzNi5iaW5kUG9wdXAocG9wdXBfYjc3NmY4NGEzMWZkNDN
     </item>
     
     <item>
-      <title>Christoph Meraner</title>
-      <link>https://tianlicfd.github.io/authors/christoph-meraner/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://tianlicfd.github.io/authors/christoph-meraner/</guid>
+      <title>Peter Glarborg</title>
+      <link>https://tianlicfd.github.io/authors/peter-glarborg/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/peter-glarborg/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Christopher Shaddix</title>
-      <link>https://tianlicfd.github.io/authors/christopher-shaddix/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://tianlicfd.github.io/authors/christopher-shaddix/</guid>
+      <title>Terese Løvås</title>
+      <link>https://tianlicfd.github.io/authors/terese-l%C3%B8vas/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/terese-l%C3%B8vas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Kathrin Weber</title>
-      <link>https://tianlicfd.github.io/authors/kathrin-weber/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://tianlicfd.github.io/authors/kathrin-weber/</guid>
+      <title>Øyvind Skreiberg</title>
+      <link>https://tianlicfd.github.io/authors/%C3%B8yvind-skreiberg/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/%C3%B8yvind-skreiberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liang Wang</title>
       <link>https://tianlicfd.github.io/authors/liang-wang/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
       <guid>https://tianlicfd.github.io/authors/liang-wang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Lihao Zhao</title>
-      <link>https://tianlicfd.github.io/authors/lihao-zhao/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://tianlicfd.github.io/authors/lihao-zhao/</guid>
+      <title>Mette Bugge</title>
+      <link>https://tianlicfd.github.io/authors/mette-bugge/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/mette-bugge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christoph Meraner</title>
+      <link>https://tianlicfd.github.io/authors/christoph-meraner/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/christoph-meraner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mario Ditaranto</title>
       <link>https://tianlicfd.github.io/authors/mario-ditaranto/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://tianlicfd.github.io/authors/mario-ditaranto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elettra Vantaggiato</title>
+      <link>https://tianlicfd.github.io/authors/elettra-vantaggiato/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/elettra-vantaggiato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lihao Zhao</title>
+      <link>https://tianlicfd.github.io/authors/lihao-zhao/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/lihao-zhao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ning Guo</title>
       <link>https://tianlicfd.github.io/authors/ning-guo/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://tianlicfd.github.io/authors/ning-guo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Peter Glarborg</title>
-      <link>https://tianlicfd.github.io/authors/peter-glarborg/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://tianlicfd.github.io/authors/peter-glarborg/</guid>
+      <title>Kathrin Weber</title>
+      <link>https://tianlicfd.github.io/authors/kathrin-weber/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/kathrin-weber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peter Quicker</title>
       <link>https://tianlicfd.github.io/authors/peter-quicker/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://tianlicfd.github.io/authors/peter-quicker/</guid>
       <description></description>
     </item>
@@ -115,40 +139,184 @@ wNTkzOTI5OTU0MTFlOGFhY2I4YmZiNmJmZTgzNi5iaW5kUG9wdXAocG9wdXBfYjc3NmY4NGEzMWZkNDN
     <item>
       <title>Sebastian Heuer</title>
       <link>https://tianlicfd.github.io/authors/sebastian-heuer/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://tianlicfd.github.io/authors/sebastian-heuer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Terese Løvås</title>
-      <link>https://tianlicfd.github.io/authors/terese-l%C3%B8vas/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://tianlicfd.github.io/authors/terese-l%C3%B8vas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Viktor Scherer</title>
       <link>https://tianlicfd.github.io/authors/viktor-scherer/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://tianlicfd.github.io/authors/viktor-scherer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gábor Várhegyi</title>
+      <link>https://tianlicfd.github.io/authors/gabor-varhegyi/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/gabor-varhegyi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christopher Shaddix</title>
+      <link>https://tianlicfd.github.io/authors/christopher-shaddix/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/christopher-shaddix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yanqing Niu</title>
       <link>https://tianlicfd.github.io/authors/yanqing-niu/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://tianlicfd.github.io/authors/yanqing-niu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Øyvind Skreiberg</title>
-      <link>https://tianlicfd.github.io/authors/%C3%B8yvind-skreiberg/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://tianlicfd.github.io/authors/%C3%B8yvind-skreiberg/</guid>
+      <title>Henrik Tolvanen</title>
+      <link>https://tianlicfd.github.io/authors/henrik-tolvanen/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/henrik-tolvanen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jukka Konttinen</title>
+      <link>https://tianlicfd.github.io/authors/jukka-konttinen/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/jukka-konttinen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiina Keipi</title>
+      <link>https://tianlicfd.github.io/authors/tiina-keipi/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/tiina-keipi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaoke Ku</title>
+      <link>https://tianlicfd.github.io/authors/xiaoke-ku/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/xiaoke-ku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cathleen Perlman</title>
+      <link>https://tianlicfd.github.io/authors/cathleen-perlman/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/cathleen-perlman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabian Mauss</title>
+      <link>https://tianlicfd.github.io/authors/fabian-mauss/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/fabian-mauss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lars Seidel</title>
+      <link>https://tianlicfd.github.io/authors/lars-seidel/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/lars-seidel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael J Antal</title>
+      <link>https://tianlicfd.github.io/authors/michael-j-antal/</link>
+      <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/michael-j-antal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morten Grønli</title>
+      <link>https://tianlicfd.github.io/authors/morten-gr%C3%B8nli/</link>
+      <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/morten-gr%C3%B8nli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Berta Güell Matas</title>
+      <link>https://tianlicfd.github.io/authors/berta-guell-matas/</link>
+      <pubDate>Fri, 28 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/berta-guell-matas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Judit Sandquist</title>
+      <link>https://tianlicfd.github.io/authors/judit-sandquist/</link>
+      <pubDate>Fri, 28 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/judit-sandquist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Berta Matas Güell</title>
+      <link>https://tianlicfd.github.io/authors/berta-matas-guell/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/berta-matas-guell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christopher R Shaddix</title>
+      <link>https://tianlicfd.github.io/authors/christopher-r-shaddix/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/christopher-r-shaddix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manfred Geier</title>
+      <link>https://tianlicfd.github.io/authors/manfred-geier/</link>
+      <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/manfred-geier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andersson Helge</title>
+      <link>https://tianlicfd.github.io/authors/andersson-helge/</link>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/andersson-helge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jun Deng</title>
+      <link>https://tianlicfd.github.io/authors/jun-deng/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/jun-deng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tangtang Bao</title>
+      <link>https://tianlicfd.github.io/authors/tangtang-bao/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/tangtang-bao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhijun Wu</title>
+      <link>https://tianlicfd.github.io/authors/zhijun-wu/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/authors/zhijun-wu/</guid>
       <description></description>
     </item>
     

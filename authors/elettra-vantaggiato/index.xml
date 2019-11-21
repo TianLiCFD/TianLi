@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elettra Vantaggiato | Tian Li</title>
+    <link>https://tianlicfd.github.io/authors/elettra-vantaggiato/</link>
+      <atom:link href="https://tianlicfd.github.io/authors/elettra-vantaggiato/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elettra Vantaggiato</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tian Li</copyright><lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tianlicfd.github.io/img/icon-192.png</url>
+      <title>Elettra Vantaggiato</title>
+      <link>https://tianlicfd.github.io/authors/elettra-vantaggiato/</link>
+    </image>
+    
+    <item>
+      <title>An evaluation of effects of operational parameters on NOx emissions through detailed chemical kinetics simulations</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article8/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
