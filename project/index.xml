@@ -182,7 +182,7 @@ char reactivity&lt;/p&gt;
       <guid>https://tianlicfd.github.io/project/nsfc-51006075/</guid>
       <description>&lt;p&gt;Investigation of low temperature combustion and emission characteristics of bio-fuel focusing on critical temperature. NSFC 51006075&lt;/p&gt;
 
-&lt;p&gt;My tasks: numerical study on combustion and emission characteristics of oxygenated fuel by using detailed chemical kinetic mechanism, study on effect of chemical additive on ethanol and DME combustion, jet diffusion ethanol flame simulation in active thermo atmosphere by using flamelet model&lt;/p&gt;
+&lt;p&gt;My tasks: numerical study of combustion and emission characteristics of oxygenated fuel using detailed chemical kinetic mechanisms, investigation of effects of chemical additives on combustion of ethanol and DME, simulation of jet diffusion ethanol flame in an active thermo atmosphere using flamelet model&lt;/p&gt;
 </description>
     </item>
     
@@ -193,7 +193,7 @@ char reactivity&lt;/p&gt;
       <guid>https://tianlicfd.github.io/project/nsfc-50676055/</guid>
       <description>&lt;p&gt;Investigation of combustion and emission characteristics of high pressure diesel fuel spray in controllable active thermo-atmosphere. NSFC 50676055&lt;/p&gt;
 
-&lt;p&gt;My tasks: study diesel spray combustion characteristics by using Shell and EBU model&lt;/p&gt;
+&lt;p&gt;My tasks: CFD simulation of combustion of diesel spray with Shell and EBU models&lt;/p&gt;
 </description>
     </item>
     
@@ -204,7 +204,7 @@ char reactivity&lt;/p&gt;
       <guid>https://tianlicfd.github.io/project/973-program-2007cb210005/</guid>
       <description>&lt;p&gt;Fundamental study on HCCI combustion in a GDI engine using ion current detection. 973 Program 2007CB210005&lt;/p&gt;
 
-&lt;p&gt;My tasks: experimental study on ion current detection on SI engine, ion current simulation on HCCI engine by using Warnatz Mechanism&lt;/p&gt;
+&lt;p&gt;My tasks: experimental study on ion current detection in a SI engine, simulation of ion current in an idealized HCCI engine by using Warnatz Mechanism&lt;/p&gt;
 </description>
     </item>
     
@@ -215,7 +215,7 @@ char reactivity&lt;/p&gt;
       <guid>https://tianlicfd.github.io/project/nsfc-50946052/</guid>
       <description>&lt;p&gt;Study on ultra low emission internal combustion engine using rankine cycle. NSFC 50946052&lt;/p&gt;
 
-&lt;p&gt;My tasks: preliminary estimation of the engine efficiency&lt;/p&gt;
+&lt;p&gt;My tasks: preliminary estimation of engine efficiency&lt;/p&gt;
 </description>
     </item>
     
