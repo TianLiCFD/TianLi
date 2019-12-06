@@ -5,12 +5,20 @@
     <link>https://tianlicfd.github.io/publication_types/2/</link>
       <atom:link href="https://tianlicfd.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tian Li</copyright><lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Tian Li</copyright><lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tianlicfd.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://tianlicfd.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>A fast-solving particle model for thermochemical conversion of biomass</title>
+      <link>https://tianlicfd.github.io/publication/journal-article17/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article17/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Skeletal mechanisms for prediction of NOx emission in solid fuel combustion</title>
