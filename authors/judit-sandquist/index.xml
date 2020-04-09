@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Judit Sandquist | Tian Li</title>
+    <link>https://tianlicfd.github.io/authors/judit-sandquist/</link>
+      <atom:link href="https://tianlicfd.github.io/authors/judit-sandquist/index.xml" rel="self" type="application/rss+xml" />
+    <description>Judit Sandquist</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tian Li</copyright><lastBuildDate>Fri, 28 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tianlicfd.github.io/img/icon-192.png</url>
+      <title>Judit Sandquist</title>
+      <link>https://tianlicfd.github.io/authors/judit-sandquist/</link>
+    </image>
+    
+    <item>
+      <title>An SEM-EDX Study of Forest Residue Chars Produced at High Temperatures and High Heating Rate</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article4/</link>
+      <pubDate>Fri, 28 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

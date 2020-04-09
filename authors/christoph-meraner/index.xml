@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christoph Meraner | Tian Li</title>
+    <link>https://tianlicfd.github.io/authors/christoph-meraner/</link>
+      <atom:link href="https://tianlicfd.github.io/authors/christoph-meraner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christoph Meraner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tian Li</copyright><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tianlicfd.github.io/img/icon-192.png</url>
+      <title>Christoph Meraner</title>
+      <link>https://tianlicfd.github.io/authors/christoph-meraner/</link>
+    </image>
+    
+    <item>
+      <title>Effects of scaling laws on the combustion and NOx characteristics of hydrogen burners</title>
+      <link>https://tianlicfd.github.io/publication/journal-article19/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combustion and NOx Emission Characteristics of a Bluff Body Hydrogen Burner</title>
+      <link>https://tianlicfd.github.io/publication/journal-article15/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cold flow characteristics of a novel bluff body hydrogen burner</title>
+      <link>https://tianlicfd.github.io/publication/journal-article11/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

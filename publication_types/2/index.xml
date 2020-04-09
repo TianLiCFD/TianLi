@@ -2,35 +2,182 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Tian Li</title>
-    <link>/publication_types/2/</link>
-      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tianlicfd.github.io/publication_types/2/</link>
+      <atom:link href="https://tianlicfd.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tian Li</copyright><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://tianlicfd.github.io/img/icon-192.png</url>
       <title>2</title>
-      <link>/publication_types/2/</link>
+      <link>https://tianlicfd.github.io/publication_types/2/</link>
     </image>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Computational fluid dynamic simulations of thermochemical conversion of pulverized biomass in a dilute flow using spheroidal approximation</title>
+      <link>https://tianlicfd.github.io/publication/journal-article21/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of scaling laws on the combustion and NOx characteristics of hydrogen burners</title>
+      <link>https://tianlicfd.github.io/publication/journal-article19/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid-independent Eulerian-Lagrangian approaches for simulations of solid fuel particle combustion</title>
+      <link>https://tianlicfd.github.io/publication/journal-article20/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of size and morphology on devolatilization of biomass particles</title>
+      <link>https://tianlicfd.github.io/publication/journal-article18/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A fast-solving particle model for thermochemical conversion of biomass</title>
+      <link>https://tianlicfd.github.io/publication/journal-article17/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skeletal mechanisms for prediction of NOx emission in solid fuel combustion</title>
+      <link>https://tianlicfd.github.io/publication/journal-article16/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combustion and NOx Emission Characteristics of a Bluff Body Hydrogen Burner</title>
+      <link>https://tianlicfd.github.io/publication/journal-article15/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eulerian-Lagrangian simulation of pulverized biomass jet using spheroidal particle approximation</title>
+      <link>https://tianlicfd.github.io/publication/journal-article14/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Alternative Approach for the Estimation of Biochar Yields</title>
+      <link>https://tianlicfd.github.io/publication/journal-article12/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cold flow characteristics of a novel bluff body hydrogen burner</title>
+      <link>https://tianlicfd.github.io/publication/journal-article11/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CO2 Gasification of Chars Prepared by Fast and Slow Pyrolysis from Wood and Forest Residue: A Kinetic Study</title>
+      <link>https://tianlicfd.github.io/publication/journal-article10/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High temperature gasification of high heating-rate chars using a flat-flame reactor</title>
+      <link>https://tianlicfd.github.io/publication/journal-article13/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methane thermal decomposition in regenerative heat exchanger reactor: Experimental and modeling study</title>
+      <link>https://tianlicfd.github.io/publication/journal-article9/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic reactor modeling of biomass pyrolysis and gasification</title>
+      <link>https://tianlicfd.github.io/publication/journal-article8/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combustion Characteristics of Biomass Charcoals Produced at Different Carbonization Conditions: A Kinetic Study</title>
+      <link>https://tianlicfd.github.io/publication/journal-article7/</link>
+      <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Particle Shrinkage and Devolatilization Models on High-Temperature Biomass Pyrolysis and Gasification</title>
+      <link>https://tianlicfd.github.io/publication/journal-article5/</link>
+      <pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental and modeling study of the effect of torrefaction on the rapid devolatilization of biomass</title>
+      <link>https://tianlicfd.github.io/publication/journal-article3/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of torrefaction on physical properties and conversion behavior of high heating rate char of forest residue</title>
+      <link>https://tianlicfd.github.io/publication/journal-article4/</link>
+      <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFD-DEM simulation of biomass gasification with steam in a fluidized bed reactor</title>
+      <link>https://tianlicfd.github.io/publication/journal-article6/</link>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eulerian–Lagrangian Simulation of Biomass Gasification Behavior in a High-Temperature Entrained-Flow Reactor</title>
+      <link>https://tianlicfd.github.io/publication/journal-article2/</link>
+      <pubDate>Fri, 11 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of drag force correlations on periodic fluidization behavior in Eulerian-Lagrangian simulation of a bubbling fluidized bed</title>
+      <link>https://tianlicfd.github.io/publication/journal-article1/</link>
+      <pubDate>Sat, 23 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article1/</guid>
+      <description></description>
     </item>
     
   </channel>

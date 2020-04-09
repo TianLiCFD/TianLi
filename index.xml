@@ -2,56 +2,460 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tian Li</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tianlicfd.github.io/</link>
+      <atom:link href="https://tianlicfd.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tian Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tian Li</copyright><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://tianlicfd.github.io/img/icon-192.png</url>
       <title>Tian Li</title>
-      <link>/</link>
+      <link>https://tianlicfd.github.io/</link>
     </image>
     
     <item>
+      <title>Computational fluid dynamic simulations of thermochemical conversion of pulverized biomass in a dilute flow using spheroidal approximation</title>
+      <link>https://tianlicfd.github.io/publication/journal-article21/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of scaling laws on the combustion and NOx characteristics of hydrogen burners</title>
+      <link>https://tianlicfd.github.io/publication/journal-article19/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid-independent Eulerian-Lagrangian approaches for simulations of solid fuel particle combustion</title>
+      <link>https://tianlicfd.github.io/publication/journal-article20/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of size and morphology on devolatilization of biomass particles</title>
+      <link>https://tianlicfd.github.io/publication/journal-article18/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A fast-solving particle model for thermochemical conversion of biomass</title>
+      <link>https://tianlicfd.github.io/publication/journal-article17/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skeletal mechanisms for prediction of NOx emission in solid fuel combustion</title>
+      <link>https://tianlicfd.github.io/publication/journal-article16/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An evaluation of effects of fuel parameters and flue gas recirculation on NOx emissions through detailed chemical kinetics simulations</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article9/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combustion and NOx Emission Characteristics of a Bluff Body Hydrogen Burner</title>
+      <link>https://tianlicfd.github.io/publication/journal-article15/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BioCarbUp</title>
-      <link>/project/biocarbup/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/biocarbup/</guid>
-      <description>&lt;p&gt;Tasks: SP leader on education and training; supervising a PhD student on
-developing computational models for optimizing biocarbon production&lt;/p&gt;
+      <link>https://tianlicfd.github.io/project/biocarbup/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/project/biocarbup/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The overall objective of this project is to optimise the biocarbon value chain for the metallurgical industry through:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Production of biocarbon with sufficient quality satisfying the end user quality requirements while ensuring optimum utilisation of the by-products.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Optimised sourcing of Norwegian forest resources for biocarbon production towards the specific metallurgical processes.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Maximising the energy and cost efficiency of the biocarbon value chain for the metallurgical industry.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My tasks: SP leader on education and training; supervising a PhD student on developing computational models for optimizing biocarbon production&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.sintef.no/projectweb/biocarbup/&#34; target=&#34;_blank&#34;&gt;Project website&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>An evaluation of effects of operational parameters on NOx emissions through detailed chemical kinetics simulations</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article8/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eulerian-Lagrangian simulation of pulverized biomass jet using spheroidal particle approximation</title>
+      <link>https://tianlicfd.github.io/publication/journal-article14/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Alternative Approach for the Estimation of Biochar Yields</title>
+      <link>https://tianlicfd.github.io/publication/journal-article12/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cold flow characteristics of a novel bluff body hydrogen burner</title>
+      <link>https://tianlicfd.github.io/publication/journal-article11/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CO2 Gasification of Chars Prepared by Fast and Slow Pyrolysis from Wood and Forest Residue: A Kinetic Study</title>
+      <link>https://tianlicfd.github.io/publication/journal-article10/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High temperature gasification of high heating-rate chars using a flat-flame reactor</title>
+      <link>https://tianlicfd.github.io/publication/journal-article13/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methane thermal decomposition in regenerative heat exchanger reactor: Experimental and modeling study</title>
+      <link>https://tianlicfd.github.io/publication/journal-article9/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFD simulation of devolatilization of biomass with shrinkage effect</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article7/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gasification of high heating-rate biomass-derived chars at elevated temperatures</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article6/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article6/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>GASPRO</title>
-      <link>/project/gaspro/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/gaspro/</guid>
-      <description>&lt;p&gt;Tasks: SP leader on idealized particle experiments and CFD simulations;
-developing simplified soot formation model; developing CFD solvers for
-simulating gasification of biomass; performing experimental studies on high-
-temperature biomass gasification&lt;/p&gt;
+      <link>https://tianlicfd.github.io/project/gaspro/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/project/gaspro/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Biomass gasification coupled with catalytic fuel synthesis has been identified as the most promising, closets to commercialization and most viable technology for production of 2nd generation transportation fuels. However, to this day, there are very few truly commercial gasifiers, operating without government support or subsidies, day in, day out, generating useful gas from biomass and even fewer that are integrated with fuel synthesis. The main reason for this is products of incomplete gasification (soot, tars, and char).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Products of incomplete gasification are responsible for fouling in process equipment; they contaminate and/or deactivate catalytic reactors and reduce the overall energy efficiency of gasification installations. More importantly, they introduce an uncertainty; of poor gasification performance, of poor process economy, of difficult plant engineering etc. Most importantly, this uncertainty, can lead to that companies are unwilling to invest in the gasification technology. As long as this uncertainty is present, 2nd generation biofuels produced via gasification will remain a promising, viable, on the paper technology.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;In this research project we wish to change this by addressing the uncertainties in biomass gasification directly. We will use advanced computational methods and new experimental infrastructure to address the Achilles heel of biomass gasification. We aim to show (experimentally and numerically) that energy efficiency (and thus competitiveness and economy) in biomass gasification can be improved by using results obtained from fundamental research methods.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The international team of researchers in this project will provide a fundamental research base for current and future competence building projects and establish a communication bridge between universities, research institutes and industry thus accelerating the acceptance and confidence in the gasification technology.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;My Tasks: SP leader on idealized particle experiments and CFD simulations; developing simplified soot formation model; developing CFD solvers for simulating gasification of biomass; performing experimental studies on high-temperature biomass gasification&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.ntnu.edu/gaspro#/view/about&#34; target=&#34;_blank&#34;&gt;Project website&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
+      <title>GrateCFD</title>
+      <link>https://tianlicfd.github.io/project/gratecfd/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/project/gratecfd/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Biomass to energy (BtE) and waste to energy (WtE) plants in Norway need to comply with stricter emission limits and/or adjust to tighter profit margins, and EU have implemented a further reduction of emission limits from medium (scale) combustion plants.&lt;/em&gt;&lt;/p&gt;
 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Tighter profit margins mean that poorer/cheaper fuel qualities become interesting, as well as operational optimization with respect to efficiency and capacity maximization. NOx, particulate and CO emissions are special concerns, as well as the operational challenges following particle deposition on heat transfer surfaces. The majority of the operational BtE and WtE plants in Norway are grate fired plants, and even though different grate technologies have been developed, they suffer from both variations in fuel quality and changing operating conditions, resulting in non-optimum operating conditions. The most cost-effective measure to abate the resulting operational challenges, including increased emission levels, are with primary measures.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Computational Fluid Dynamics (CFD) is the ultimate design tool for BtE and WtE plant combustion and heat transfer sections, however, cost-effective sub-models need to be developed, implemented and used in an optimum way. Moreover, the CFD simulations need to be carried out for transient conditions, to study the effect of changing operating conditions, and minimize&lt;/em&gt; the impact of these through improved plant operation and operational guidelines.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;GrateCFD therefore focuses on enabling optimum grate fired BtE and WtE plant operation through CFD aided design and operational guidelines. Improved models and modelling approaches, in combination with targeted experiments/measurement campaigns, are keys for future&amp;rsquo;s increased sustainable BtE and WtE plants. This will have a significant impact on two of the most important renewable value chains in Norway today, the BtE and WtE value chains.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;My tasks: developing fuel bed model and reduced NOx kinetics model; supervising a PhD student on CFD modelling of biomass/waste to energy plants&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.sintef.no/projectweb/gratecfd/&#34; target=&#34;_blank&#34;&gt;Project website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stochastic reactor modeling of biomass pyrolysis and gasification</title>
+      <link>https://tianlicfd.github.io/publication/journal-article8/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFD simulation of industrial-sized biomass furnace</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article5/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combustion Characteristics of Biomass Charcoals Produced at Different Carbonization Conditions: A Kinetic Study</title>
+      <link>https://tianlicfd.github.io/publication/journal-article7/</link>
+      <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An SEM-EDX Study of Forest Residue Chars Produced at High Temperatures and High Heating Rate</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article4/</link>
+      <pubDate>Fri, 28 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Particle Shrinkage and Devolatilization Models on High-Temperature Biomass Pyrolysis and Gasification</title>
+      <link>https://tianlicfd.github.io/publication/journal-article5/</link>
+      <pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CenBio</title>
+      <link>https://tianlicfd.github.io/project/cenbio/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/project/cenbio/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;To enable sustainable and cost-efficient bioenergy industry in Norway&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;To counter the effects of climate change, the global average temperature must not rise beyond two degrees compared to pre-industrial times. Yet, the world&amp;rsquo;s energy consumption is expected to increase by more than 50 % between 2010 and 2040.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Bioenergy is expected to play a big role in our energy future according to the United Nation&amp;rsquo;s Intergovernmental Panel on Climate Change: &amp;ldquo;Bioenergy&amp;rsquo;s share of total regional electricity and liquid fuels is projected to be up to 35 and 75 percent, respectively, by 2050&amp;rdquo;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Enhanced use of renewable energy, such as bioenergy, is a part of the climate solution. Bioenergy relies on biomass, consisting of any organic material which has stored sunlight in the form of chemical energy. The ultimate goal of stationary bioenergy is to convert this energy into heat and/or electricity in the most sustainable way.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;My tasks: developing CFD tools for grate fired furnace and fluidized-bed furnace; studying NOx formation during biomass combustion&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.sintef.no/projectweb/cenbio/&#34; target=&#34;_blank&#34;&gt;Project website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Experimental and modeling study of the effect of torrefaction on the rapid devolatilization of biomass</title>
+      <link>https://tianlicfd.github.io/publication/journal-article3/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SiNoPSE</title>
+      <link>https://tianlicfd.github.io/project/sinopse/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/project/sinopse/</guid>
+      <description>&lt;p&gt;&lt;em&gt;SiNoPSE is a Sino-Norwegian Partnership on Sustainable Energy between Norwegian University of Science and Technology (NTNU), Shanghai Jiao Tong University (SJTU) and Tsinghua University (THU). SiNoPSE aims to create a triple helix collaboration on sustainable energy between NTNU, THU and SJTU, and their local networks of research, industries and cities. SJTU and THU are the leading Chinese universities in sustainable energy, from a technology and societal perspective respectively. THU and SJTU have substantial activities in the energy area with internationally recognized research groups in strategically important science fields and are thus in a good position to contribute in the global transition process towards sustainable energy.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;My tasks: organizing summer school on sustainable energy; numerical modelling of fluid-particle interaction in collaboration of Tsinghua University&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.ntnu.edu/smartcities/sinopse&#34; target=&#34;_blank&#34;&gt;Project website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GAFT</title>
+      <link>https://tianlicfd.github.io/project/gaft/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/project/gaft/</guid>
+      <description>&lt;p&gt;&lt;em&gt;With GAFT we aim to swiftly introduce liquid biofuels production in the Norwegian market through local production&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The challenges is to be able to make the overall process economically viable at a scale that is suitable for Norway and by taking into account the Norwegian conditions and existing infrastructure. The success of this project means that we will have the opportunity to replace parts of the fossil fuels, with a sustainable alternative.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Two specific markets are targeted:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;bio-jetfuel for the aviation sector&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;bio-diesel for the heavy road transport sector&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Biomass, which is the starting point of the energy conversion route, will be a mixture of mostly low by-products that are available in the Norwegian market and some high quality products.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;My tasks: Developing CFD sub-model for non-spherical biomass particle and supervising PhD student&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.sintef.no/projectweb/gaft/&#34; target=&#34;_blank&#34;&gt;Project website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effect of torrefaction on physical properties and conversion behavior of high heating rate char of forest residue</title>
+      <link>https://tianlicfd.github.io/publication/journal-article4/</link>
+      <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFD-DEM simulation of biomass gasification with steam in a fluidized bed reactor</title>
+      <link>https://tianlicfd.github.io/publication/journal-article6/</link>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eulerian–Lagrangian Simulation of Biomass Gasification Behavior in a High-Temperature Entrained-Flow Reactor</title>
+      <link>https://tianlicfd.github.io/publication/journal-article2/</link>
+      <pubDate>Fri, 11 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BioCarb&#43;</title>
+      <link>https://tianlicfd.github.io/project/biocarb&#43;/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/project/biocarb&#43;/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The overall objective of BioCarb+ is development of new strategies for use of low-grade biomass, pulpwood and energy wood resources for biocarbon (BC) production for raw material for industrial applications (reduction agent / metallurgical coke) and conversion for energy purposes. The sub-objectives are:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;New or improved biomass harvesting and logistics solutions, with special attention to forest residues, but also pulpwood and energy wood (including hardwood), and their properties&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;New or improved biocarbon production solutions through development or improvement of biomass pretreatment methods, biocarbon production processes and applications and biocarbon logistics solutions&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;New or improved biocarbon conversion solutions through development or improvement of biocarbon conversion applications with focus on high energy efficiency and low emissions, and biocarbon properties for industrial applications&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Efficient utilisation of by-products from the biocarbon production process to improve overall economy and improve sustainability (CO2-footprint) of biocarbon production and utilisation&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Education of highly skilled candidates within this area and training of industry partners&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Monitoring of activities and state-of-the-art within this area and dissemination of knowledge to the industry partners, and other interested parties where applicable&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My tasks: developing simulation tools based on stochastic reactor model for biocarbon production; investigating reactivity of biocarbon&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.sintef.no/projectweb/biocarb/&#34; target=&#34;_blank&#34;&gt;Project website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Influence of drag force correlations on periodic fluidization behavior in Eulerian-Lagrangian simulation of a bubbling fluidized bed</title>
+      <link>https://tianlicfd.github.io/publication/journal-article1/</link>
+      <pubDate>Sat, 23 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eulerian-lagrangian simulation of a bubbling fluidized bed reactor: Assessment of drag force correlations</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article2/</link>
+      <pubDate>Fri, 14 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical investigation of particles turbulent dispersion in channel flow</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article3/</link>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical study on effect of hydrogen peroxide additive on ethanol HCCI engine</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article1/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GasBio</title>
+      <link>https://tianlicfd.github.io/project/gasbio/</link>
+      <pubDate>Sun, 18 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/project/gasbio/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The overall objective of this project was to establish an internationally oriented solid Norwegian competence base in the area of biomass gasification for liquid biofuel applications&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Educate PhD and MSc candidates. Train qualified researchers&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Publish research results&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Cooperate closely with the industry within personnel training and research&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Establish formal links to research groups in Sweden, Denmark and Finland&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Establish personnel exchange program&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Establish advanced laboratory facilities&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Develop theories and computational models&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Scaling-up from lab. scale to full scale&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Develop new gasification concepts&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Perform case studies in close cooperation with the industry&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My tasks: assessing different multiphase flow software and codes; developing CFD
+tools for simulating biomass gasification; investigating gasification behavior and
+char reactivity&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.sintef.no/Projectweb/GasBio/&#34; target=&#34;_blank&#34;&gt;Project website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Combustion and Emission Characteristics of Bio-Fuel</title>
+      <link>https://tianlicfd.github.io/project/nsfc-51006075/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/project/nsfc-51006075/</guid>
+      <description>&lt;p&gt;Investigation of low temperature combustion and emission characteristics of bio-fuel focusing on critical temperature. NSFC 51006075&lt;/p&gt;
+
+&lt;p&gt;My tasks: numerical study of combustion and emission characteristics of oxygenated fuel using detailed chemical kinetic mechanisms, investigation of effects of chemical additives on combustion of ethanol and DME, simulation of jet diffusion ethanol flame in an active thermo atmosphere using flamelet model&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Combustion and Emission Characteristics of High Pressure Diesel Fuel Spray</title>
+      <link>https://tianlicfd.github.io/project/nsfc-50676055/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/project/nsfc-50676055/</guid>
+      <description>&lt;p&gt;Investigation of combustion and emission characteristics of high pressure diesel fuel spray in controllable active thermo-atmosphere. NSFC 50676055&lt;/p&gt;
+
+&lt;p&gt;My tasks: CFD simulation of combustion of diesel spray with Shell and EBU models&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HCCI combustion in a GDI engine</title>
+      <link>https://tianlicfd.github.io/project/973-program-2007cb210005/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/project/973-program-2007cb210005/</guid>
+      <description>&lt;p&gt;Fundamental study on HCCI combustion in a GDI engine using ion current detection. 973 Program 2007CB210005&lt;/p&gt;
+
+&lt;p&gt;My tasks: experimental study on ion current detection in a SI engine, simulation of ion current in an idealized HCCI engine by using Warnatz Mechanism&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ultra Low Emission Internal Combustion Engine Using Rankine Cycle</title>
+      <link>https://tianlicfd.github.io/project/nsfc-50946052/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/project/nsfc-50946052/</guid>
+      <description>&lt;p&gt;Study on ultra low emission internal combustion engine using rankine cycle. NSFC 50946052&lt;/p&gt;
+
+&lt;p&gt;My tasks: preliminary estimation of engine efficiency&lt;/p&gt;
 </description>
     </item>
     

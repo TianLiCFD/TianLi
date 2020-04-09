@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Øyvind Skreiberg | Tian Li</title>
+    <link>https://tianlicfd.github.io/authors/%C3%B8yvind-skreiberg/</link>
+      <atom:link href="https://tianlicfd.github.io/authors/%C3%B8yvind-skreiberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Øyvind Skreiberg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tian Li</copyright><lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tianlicfd.github.io/img/icon-192.png</url>
+      <title>Øyvind Skreiberg</title>
+      <link>https://tianlicfd.github.io/authors/%C3%B8yvind-skreiberg/</link>
+    </image>
+    
+    <item>
+      <title>Skeletal mechanisms for prediction of NOx emission in solid fuel combustion</title>
+      <link>https://tianlicfd.github.io/publication/journal-article16/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An evaluation of effects of fuel parameters and flue gas recirculation on NOx emissions through detailed chemical kinetics simulations</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article9/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An evaluation of effects of operational parameters on NOx emissions through detailed chemical kinetics simulations</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article8/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CO2 Gasification of Chars Prepared by Fast and Slow Pyrolysis from Wood and Forest Residue: A Kinetic Study</title>
+      <link>https://tianlicfd.github.io/publication/journal-article10/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combustion Characteristics of Biomass Charcoals Produced at Different Carbonization Conditions: A Kinetic Study</title>
+      <link>https://tianlicfd.github.io/publication/journal-article7/</link>
+      <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

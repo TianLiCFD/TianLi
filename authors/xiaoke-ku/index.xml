@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoke Ku | Tian Li</title>
+    <link>https://tianlicfd.github.io/authors/xiaoke-ku/</link>
+      <atom:link href="https://tianlicfd.github.io/authors/xiaoke-ku/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoke Ku</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tian Li</copyright><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tianlicfd.github.io/img/icon-192.png</url>
+      <title>Xiaoke Ku</title>
+      <link>https://tianlicfd.github.io/authors/xiaoke-ku/</link>
+    </image>
+    
+    <item>
+      <title>CFD simulation of devolatilization of biomass with shrinkage effect</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article7/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFD simulation of industrial-sized biomass furnace</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article5/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Particle Shrinkage and Devolatilization Models on High-Temperature Biomass Pyrolysis and Gasification</title>
+      <link>https://tianlicfd.github.io/publication/journal-article5/</link>
+      <pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental and modeling study of the effect of torrefaction on the rapid devolatilization of biomass</title>
+      <link>https://tianlicfd.github.io/publication/journal-article3/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of torrefaction on physical properties and conversion behavior of high heating rate char of forest residue</title>
+      <link>https://tianlicfd.github.io/publication/journal-article4/</link>
+      <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFD-DEM simulation of biomass gasification with steam in a fluidized bed reactor</title>
+      <link>https://tianlicfd.github.io/publication/journal-article6/</link>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eulerian–Lagrangian Simulation of Biomass Gasification Behavior in a High-Temperature Entrained-Flow Reactor</title>
+      <link>https://tianlicfd.github.io/publication/journal-article2/</link>
+      <pubDate>Fri, 11 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of drag force correlations on periodic fluidization behavior in Eulerian-Lagrangian simulation of a bubbling fluidized bed</title>
+      <link>https://tianlicfd.github.io/publication/journal-article1/</link>
+      <pubDate>Sat, 23 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eulerian-lagrangian simulation of a bubbling fluidized bed reactor: Assessment of drag force correlations</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article2/</link>
+      <pubDate>Fri, 14 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical investigation of particles turbulent dispersion in channel flow</title>
+      <link>https://tianlicfd.github.io/publication/proceeding-article3/</link>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/proceeding-article3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

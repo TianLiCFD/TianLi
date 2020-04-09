@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kathrin Weber | Tian Li</title>
+    <link>https://tianlicfd.github.io/authors/kathrin-weber/</link>
+      <atom:link href="https://tianlicfd.github.io/authors/kathrin-weber/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kathrin Weber</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tian Li</copyright><lastBuildDate>Fri, 10 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tianlicfd.github.io/img/icon-192.png</url>
+      <title>Kathrin Weber</title>
+      <link>https://tianlicfd.github.io/authors/kathrin-weber/</link>
+    </image>
+    
+    <item>
+      <title>An Alternative Approach for the Estimation of Biochar Yields</title>
+      <link>https://tianlicfd.github.io/publication/journal-article12/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic reactor modeling of biomass pyrolysis and gasification</title>
+      <link>https://tianlicfd.github.io/publication/journal-article8/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

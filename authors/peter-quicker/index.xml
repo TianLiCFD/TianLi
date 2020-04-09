@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Quicker | Tian Li</title>
+    <link>https://tianlicfd.github.io/authors/peter-quicker/</link>
+      <atom:link href="https://tianlicfd.github.io/authors/peter-quicker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Quicker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tian Li</copyright><lastBuildDate>Fri, 10 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tianlicfd.github.io/img/icon-192.png</url>
+      <title>Peter Quicker</title>
+      <link>https://tianlicfd.github.io/authors/peter-quicker/</link>
+    </image>
+    
+    <item>
+      <title>An Alternative Approach for the Estimation of Biochar Yields</title>
+      <link>https://tianlicfd.github.io/publication/journal-article12/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/publication/journal-article12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
