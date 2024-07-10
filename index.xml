@@ -5,12 +5,24 @@
     <link>https://tianlicfd.github.io/</link>
       <atom:link href="https://tianlicfd.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tian Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Tian Li</copyright><lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Tian Li</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tianlicfd.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Tian Li</title>
       <link>https://tianlicfd.github.io/</link>
     </image>
+    
+    <item>
+      <title>BioSynGas</title>
+      <link>https://tianlicfd.github.io/project/biosyngas/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://tianlicfd.github.io/project/biosyngas/</guid>
+      <description>&lt;p&gt;&lt;em&gt;BIOSYNGAS aims at utilizing digestate from biogas processes for the decentralized production of biomethane and other added value products. This will allow an economically viable mean to produce a renewable transport biofuel (biomethane) that is based on zero-cost feedstocks with minimal transport requirements and by developing an innovative process linking gasification and syngas production to the existing anaerobic process.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;My tasks: Supervising a PhD student contributing to model development and experiment on hydrothermal carbonization and gasification&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.sintef.no/prosjekter/2021/biosyngas-neste-generasjon-biogassproduksjon-via-integrasjon-med-gassifisering/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Computational fluid dynamic simulations of thermochemical conversion of pulverized biomass in a dilute flow using spheroidal approximation</title>
